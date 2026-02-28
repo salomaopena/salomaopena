@@ -1,11 +1,7 @@
 <!-- ======================== HEADER ANIMADO ======================== -->
 
 <h1 >Olá, eu sou Salomão Pena</h1>
-<h3 >Desenvolvedor Web | Cybersecurity Specialist | Data Engineer</h3>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Especialista+em+Cibersegurança;Data+Engineer+%7C+DBA;Criando+tecnologia+com+propósito" />
-</p>
+<h3 >Desenvolvedor Full Stack | Cybersecurity Specialist | Data Engineer</h3>
 
 ---
 
@@ -103,65 +99,86 @@ As a **Professor and Academic Project Advisor**, I mentor future tech profession
 
 # Projetos em Destaque | Featured Projects
 
-🔹 **Projeto 1**  
+- **Projeto 1**  
 Descrição curta do projeto.  
 🔗 Link: (colocar aqui)
 
-🔹 **Plataforma EAD**  
+- **Plataforma EAD**  
 Sistema educacional com foco em escalabilidade e segurança.  
 🔗 Link: (colocar aqui)
 
-🔹 **Sistema com foco em Cibersegurança**  
+- **Sistema com foco em Cibersegurança**  
 Projeto voltado para proteção de dados e análise de vulnerabilidades.  
 🔗 Link: (colocar aqui)
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=salomaopena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salomaopena&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=salomaopena&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🧠 Especialidades | Specialties
+# Especialidades | Specialties
 
-🔐 Cybersecurity  
-📊 Data Engineering  
-🗄️ SQL Database Administration  
-🌐 Full Stack Development  
-📱 Mobile Development with Flutter  
-🎓 Educational Platforms  
-🧩 Systems Architecture  
+- Cybersecurity  
+- Data Engineering  
+- SQL Database Administration  
+- Full Stack Development  
+- Mobile Development with Flutter  
+- Educational Platforms  
+- Systems Architecture  
 
 ---
 
-# 🌍 Vamos Conectar | Let's Connect
+# Vamos Conectar | Let's Connect
 
 <p align="center">
-  <a href="COLOCAR_LINK_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+  <a href="https://www.linkedin.com/in/salomaopena/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="COLOCAR_LINK_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
-  </a>
+
   <a href="COLOCAR_LINK_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="COLOCAR_LINK_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="COLOCAR_LINK_YOUTUBE">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="COLOCAR_LINK_FACEBOOK_PAGE">
+    <img src="https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="COLOCAR_LINK_FACEBOOK_PROFILE">
+    <img src="https://img.shields.io/badge/Facebook_Profile-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="COLOCAR_LINK_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+
   <a href="mailto:SEU_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
 </p>
 
 ---
 
-# 💬 Open for:
+# Open for:
 
 ✔ Parcerias  
 ✔ Projetos inovadores  
