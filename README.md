@@ -218,6 +218,10 @@ Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto t�
   <img src="https://streak-stats.demolab.com?user=salomaopena&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salomaopena&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 # Especialidades | Specialties
