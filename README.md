@@ -109,7 +109,7 @@ As a **Professor and Academic Project Advisor**, I mentor future tech profession
 - Evento: 17th Iberian Conference on Information Systems and Technologies (CISTI) – IEEE  
 - Papel: Autor  
 
-🔗 DOI: https://doi.org/10.23919/CISTI54924.2022.9820406
+DOI: https://doi.org/10.23919/CISTI54924.2022.9820406
 
 Contribuição: Estudo sistemático sobre implementação de LMS no ensino superior angolano, com foco em adoção, desafios e impacto institucional.
 
@@ -122,7 +122,7 @@ Contribuição: Estudo sistemático sobre implementação de LMS no ensino super
 - Publisher: Zenodo  
 - Papel: Autor  
 
-🔗 DOI: https://doi.org/10.5281/zenodo.17095975  
+DOI: https://doi.org/10.5281/zenodo.17095975  
 
 Contribuição: Proposta de arquitetura adaptativa combinando SAC e LSTM para otimização de hiperparâmetros em sistemas de detecção de intrusão (IDS).
 
@@ -135,7 +135,7 @@ Contribuição: Proposta de arquitetura adaptativa combinando SAC e LSTM para ot
 - Editora: Pimenta Cultura  
 - Papel: Autor  
 
-🔗 Acesso: https://www.pimentacultural.com/wp-content/uploads/2024/05/eBook_Formacao-pontes.pdf  
+Acesso: https://www.pimentacultural.com/wp-content/uploads/2024/05/eBook_Formacao-pontes.pdf  
 
 Contribuição: Discussão sobre fundamentos e estratégias formativas para ensino online no contexto educacional.
 
@@ -146,7 +146,7 @@ Contribuição: Discussão sobre fundamentos e estratégias formativas para ensi
 - Editora: Editora Poisson  
 - Papel: Autor  
 
-🔗 Acesso: https://livros.poisson.com.br/individuais/Saberes_Compartilhados/Saberes_Compartilhados.pdf  
+Acesso: https://livros.poisson.com.br/individuais/Saberes_Compartilhados/Saberes_Compartilhados.pdf  
 
 Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto técnico-profissional.
 
@@ -158,7 +158,7 @@ Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto t�
 
 ## Plataforma Oficial ISCED-Huíla
 
-🔗 https://isced-huila.edu.ao/  
+https://isced-huila.edu.ao/  
 - Stack: WordPress  
 - Papel: Desenvolvimento & Implementação  
 
@@ -166,7 +166,7 @@ Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto t�
 
 ## Website da Conferência Internacional em Ensino das Ciências (CIECI)
 
-🔗 https://cieci.isced-huila.edu.ao/  
+https://cieci.isced-huila.edu.ao/  
 - Stack: WordPress  
 - Papel: Desenvolvimento & Implementação  
 
@@ -174,7 +174,7 @@ Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto t�
 
 ##  Plataforma de Ensino à Distância (E-Learning)
 
-🔗 https://elearning.isced-huila.edu.ao/  
+https://elearning.isced-huila.edu.ao/  
 - Tecnologia: Moodle  
 - Papel: Autor / Implementador  
 - Impacto: Transformação digital institucional e fortalecimento do ensino online  
@@ -183,12 +183,12 @@ Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto t�
 
 ## Plataforma de Gestão de Trabalhos de Fim de Curso
 
-🔗 https://servicosonline.isced-huila.edu.ao/  
+https://servicosonline.isced-huila.edu.ao/  
 - Tecnologias: PHP + CodeIgniter 4  
 - Arquitetura: MVC  
 - Papel: Desenvolvimento, Implementação e Manutenção do Sistema  
 
-📌 Sistema voltado para gestão acadêmica de trabalhos de graduação e pós-graduação.
+Sistema voltado para gestão acadêmica de trabalhos de graduação e pós-graduação.
 
 ---
 
