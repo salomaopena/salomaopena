@@ -209,9 +209,6 @@ Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto t�
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salomaopena&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=salomaopena&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
