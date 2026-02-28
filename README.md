@@ -205,10 +205,18 @@ Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto t�
 # GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=salomaopena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salomaopena&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?user=salomaopena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?user=salomaopena&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=salomaopena&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salomaopena&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salomaopena&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
