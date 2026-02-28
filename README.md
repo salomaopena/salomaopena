@@ -109,98 +109,96 @@ As a **Professor and Academic Project Advisor**, I mentor future tech profession
 - Evento: 17th Iberian Conference on Information Systems and Technologies (CISTI) – IEEE  
 - Papel: Autor  
 
-🔗 ![DOI: https://doi.org/10.23919/CISTI54924.2022.9820406](https://doi.org/10.23919/CISTI54924.2022.9820406)  
+🔗 DOI: https://doi.org/10.23919/CISTI54924.2022.9820406
 
-📌 Contribuição: Estudo sistemático sobre implementação de LMS no ensino superior angolano, com foco em adoção, desafios e impacto institucional.
+Contribuição: Estudo sistemático sobre implementação de LMS no ensino superior angolano, com foco em adoção, desafios e impacto institucional.
 
 ---
 
-### 🔹 SAC&LSTM: Uma Nova Arquitetura Adaptativa para Otimização Multiobjetivo de Hiperparâmetros em IDS
+### SAC&LSTM: Uma Nova Arquitetura Adaptativa para Otimização Multiobjetivo de Hiperparâmetros em IDS
 
-📅 Publicado em: 2025  
-🏛 Evento: I Seminário de Segurança Cibernética e Privacidade de Dados  
-📚 Publisher: Zenodo  
-👨‍💻 Papel: Autor  
+- Publicado em: 2025  
+- Evento: I Seminário de Segurança Cibernética e Privacidade de Dados  
+- Publisher: Zenodo  
+- Papel: Autor  
 
 🔗 DOI: https://doi.org/10.5281/zenodo.17095975  
 
-📌 Contribuição: Proposta de arquitetura adaptativa combinando SAC e LSTM para otimização de hiperparâmetros em sistemas de detecção de intrusão (IDS).
+Contribuição: Proposta de arquitetura adaptativa combinando SAC e LSTM para otimização de hiperparâmetros em sistemas de detecção de intrusão (IDS).
 
 ---
 
-## 📖 Capítulos de Livro | Book Chapters
+## Capítulos de Livro | Book Chapters
 
-### 🔹 Capacitação Docente no Âmbito das Práticas de Ensino à Distância Online: Fundamentos e Ações Formativas
+### Capacitação Docente no Âmbito das Práticas de Ensino à Distância Online: Fundamentos e Ações Formativas
 
-📚 Editora: Pimenta Cultura  
-👨‍💻 Papel: Autor  
+- Editora: Pimenta Cultura  
+- Papel: Autor  
 
 🔗 Acesso: https://www.pimentacultural.com/wp-content/uploads/2024/05/eBook_Formacao-pontes.pdf  
 
-📌 Contribuição: Discussão sobre fundamentos e estratégias formativas para ensino online no contexto educacional.
+Contribuição: Discussão sobre fundamentos e estratégias formativas para ensino online no contexto educacional.
 
 ---
 
-### 🔹 Contributo dos Jogos Sérios no Aprendizado da Lógica: Um Estudo de Caso no Ensino Técnico-Profissional
+### Contributo dos Jogos Sérios no Aprendizado da Lógica: Um Estudo de Caso no Ensino Técnico-Profissional
 
-📚 Editora: Editora Poisson  
-👨‍💻 Papel: Autor  
+- Editora: Editora Poisson  
+- Papel: Autor  
 
 🔗 Acesso: https://livros.poisson.com.br/individuais/Saberes_Compartilhados/Saberes_Compartilhados.pdf  
 
-📌 Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto técnico-profissional.
+Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto técnico-profissional.
 
 ---
 
-# 🌐 Projetos Institucionais | Institutional Projects
+# Projetos Institucionais | Institutional Projects
 
 ---
 
-## 🎓 Plataforma Oficial ISCED-Huíla
+## Plataforma Oficial ISCED-Huíla
 
 🔗 https://isced-huila.edu.ao/  
-🛠 Stack: WordPress  
-👨‍💻 Papel: Desenvolvimento & Implementação  
+- Stack: WordPress  
+- Papel: Desenvolvimento & Implementação  
 
 ---
 
-## 🏢 Centro de Investigação Científica (CIECI)
+## Website da Conferência Internacional em Ensino das Ciências (CIECI)
 
 🔗 https://cieci.isced-huila.edu.ao/  
-🛠 Stack: WordPress  
-👨‍💻 Papel: Desenvolvimento  
+- Stack: WordPress  
+- Papel: Desenvolvimento & Implementação  
 
 ---
 
-## 📘 Plataforma de Ensino à Distância (E-Learning)
+##  Plataforma de Ensino à Distância (E-Learning)
 
 🔗 https://elearning.isced-huila.edu.ao/  
-🛠 Tecnologia: Moodle  
-👨‍💻 Papel: Autor / Implementador  
-📈 Impacto: Transformação digital institucional e fortalecimento do ensino online  
+- Tecnologia: Moodle  
+- Papel: Autor / Implementador  
+- Impacto: Transformação digital institucional e fortalecimento do ensino online  
 
 ---
 
-## 🗂 Plataforma de Gestão de Trabalhos de Fim de Curso
+## Plataforma de Gestão de Trabalhos de Fim de Curso
 
 🔗 https://servicosonline.isced-huila.edu.ao/  
-🛠 Tecnologias: PHP + CodeIgniter 4  
-🏗 Arquitetura: MVC  
-👨‍💻 Papel: Desenvolvimento do Sistema  
+- Tecnologias: PHP + CodeIgniter 4  
+- Arquitetura: MVC  
+- Papel: Desenvolvimento, Implementação e Manutenção do Sistema  
 
 📌 Sistema voltado para gestão acadêmica de trabalhos de graduação e pós-graduação.
 
 ---
 
-# 🏛 Academic & Institutional Impact
+#  Academic & Institutional Impact
 
 ✔ Transformação digital no ensino superior  
 ✔ Implementação de plataformas educacionais  
 ✔ Pesquisa em Cibersegurança e Inteligência Artificial  
 ✔ Produção científica internacional  
 ✔ Desenvolvimento de soluções institucionais escaláveis  
-
----
 
 ---
 
