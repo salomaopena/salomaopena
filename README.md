@@ -97,19 +97,110 @@ As a **Professor and Academic Project Advisor**, I mentor future tech profession
 
 ---
 
-# Projetos em Destaque | Featured Projects
+# Publicações Científicas & Projetos | Projects & Scientific Publications
 
-- **Projeto 1**  
-Descrição curta do projeto.  
-🔗 Link: (colocar aqui)
+---
 
-- **Plataforma EAD**  
-Sistema educacional com foco em escalabilidade e segurança.  
-🔗 Link: (colocar aqui)
+## Artigos Científicos | Research Articles
 
-- **Sistema com foco em Cibersegurança**  
-Projeto voltado para proteção de dados e análise de vulnerabilidades.  
-🔗 Link: (colocar aqui)
+### Implementation of a Learning Management System (LMS) in an Angolan Higher Education Institution: A Systematic Literature Review
+
+- Publicado em: 2022  
+- Evento: 17th Iberian Conference on Information Systems and Technologies (CISTI) – IEEE  
+- Papel: Autor  
+
+🔗 ![DOI: https://doi.org/10.23919/CISTI54924.2022.9820406](https://doi.org/10.23919/CISTI54924.2022.9820406)  
+
+📌 Contribuição: Estudo sistemático sobre implementação de LMS no ensino superior angolano, com foco em adoção, desafios e impacto institucional.
+
+---
+
+### 🔹 SAC&LSTM: Uma Nova Arquitetura Adaptativa para Otimização Multiobjetivo de Hiperparâmetros em IDS
+
+📅 Publicado em: 2025  
+🏛 Evento: I Seminário de Segurança Cibernética e Privacidade de Dados  
+📚 Publisher: Zenodo  
+👨‍💻 Papel: Autor  
+
+🔗 DOI: https://doi.org/10.5281/zenodo.17095975  
+
+📌 Contribuição: Proposta de arquitetura adaptativa combinando SAC e LSTM para otimização de hiperparâmetros em sistemas de detecção de intrusão (IDS).
+
+---
+
+## 📖 Capítulos de Livro | Book Chapters
+
+### 🔹 Capacitação Docente no Âmbito das Práticas de Ensino à Distância Online: Fundamentos e Ações Formativas
+
+📚 Editora: Pimenta Cultura  
+👨‍💻 Papel: Autor  
+
+🔗 Acesso: https://www.pimentacultural.com/wp-content/uploads/2024/05/eBook_Formacao-pontes.pdf  
+
+📌 Contribuição: Discussão sobre fundamentos e estratégias formativas para ensino online no contexto educacional.
+
+---
+
+### 🔹 Contributo dos Jogos Sérios no Aprendizado da Lógica: Um Estudo de Caso no Ensino Técnico-Profissional
+
+📚 Editora: Editora Poisson  
+👨‍💻 Papel: Autor  
+
+🔗 Acesso: https://livros.poisson.com.br/individuais/Saberes_Compartilhados/Saberes_Compartilhados.pdf  
+
+📌 Contribuição: Aplicação de jogos sérios no ensino da lógica em contexto técnico-profissional.
+
+---
+
+# 🌐 Projetos Institucionais | Institutional Projects
+
+---
+
+## 🎓 Plataforma Oficial ISCED-Huíla
+
+🔗 https://isced-huila.edu.ao/  
+🛠 Stack: WordPress  
+👨‍💻 Papel: Desenvolvimento & Implementação  
+
+---
+
+## 🏢 Centro de Investigação Científica (CIECI)
+
+🔗 https://cieci.isced-huila.edu.ao/  
+🛠 Stack: WordPress  
+👨‍💻 Papel: Desenvolvimento  
+
+---
+
+## 📘 Plataforma de Ensino à Distância (E-Learning)
+
+🔗 https://elearning.isced-huila.edu.ao/  
+🛠 Tecnologia: Moodle  
+👨‍💻 Papel: Autor / Implementador  
+📈 Impacto: Transformação digital institucional e fortalecimento do ensino online  
+
+---
+
+## 🗂 Plataforma de Gestão de Trabalhos de Fim de Curso
+
+🔗 https://servicosonline.isced-huila.edu.ao/  
+🛠 Tecnologias: PHP + CodeIgniter 4  
+🏗 Arquitetura: MVC  
+👨‍💻 Papel: Desenvolvimento do Sistema  
+
+📌 Sistema voltado para gestão acadêmica de trabalhos de graduação e pós-graduação.
+
+---
+
+# 🏛 Academic & Institutional Impact
+
+✔ Transformação digital no ensino superior  
+✔ Implementação de plataformas educacionais  
+✔ Pesquisa em Cibersegurança e Inteligência Artificial  
+✔ Produção científica internacional  
+✔ Desenvolvimento de soluções institucionais escaláveis  
+
+---
 
 ---
 
@@ -146,31 +237,27 @@ Projeto voltado para proteção de dados e análise de vulnerabilidades.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="COLOCAR_LINK_GITHUB">
+  <a href="https://github.com/salomaopena">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="COLOCAR_LINK_INSTAGRAM">
+  <a href="https://www.instagram.com/salomao.pena">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="COLOCAR_LINK_YOUTUBE">
+  <a href="https://www.youtube.com/@salomaopena">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
-  <a href="COLOCAR_LINK_FACEBOOK_PAGE">
+  <a href="https://web.facebook.com/stackcodeoficial">
     <img src="https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="COLOCAR_LINK_FACEBOOK_PROFILE">
+  <a href="https://web.facebook.com/salomaopena">
     <img src="https://img.shields.io/badge/Facebook_Profile-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="COLOCAR_LINK_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:stackcodea@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
