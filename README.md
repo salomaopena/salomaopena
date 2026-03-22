@@ -1,7 +1,7 @@
 <!-- ======================== HEADER ANIMADO ======================== -->
 
 <h1 >Olá, eu sou Salomão Pena</h1>
-<h3 >Desenvolvedor Full Stack | Cybersecurity Specialist | Data Engineer</h3>
+<h3 >Full-Stack Dev | CodeIgniter 4, Laravel, Django, Flask | Python/YOLO Visão Computacional | Cursos Tech 1k+ Alunos | Cibersegurança RBAC+JWT | Banco de Dados SQL</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 
 Sou um profissional apaixonado por tecnologia, com forte atuação em **Desenvolvimento Full Stack e Cibersegurança**.
 
-Tenho experiência como **Data Engineer, DBA e Desenvolvedor Web**, criando soluções robustas e escaláveis que unem:
+Tenho experiência como **Desenvolvedor full stack**, criando soluções robustas e escaláveis que unem:
 
 - Performance  
 - Segurança  
