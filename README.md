@@ -205,7 +205,7 @@ Sistema voltado para gestão acadêmica de trabalhos de graduação e pós-gradu
 # GitHub Analytics
 
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=salomaopena&theme=tokyonight&hide_border=true&v=20260821)
+  <img src="./streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
