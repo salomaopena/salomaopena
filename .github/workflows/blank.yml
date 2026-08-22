@@ -1,0 +1,24 @@
+name: Atualizar GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar card de streak
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          username: salomaopena
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: streak.svg
+          theme: tokyonight
+          hide-border: true
+          timezone: America/Sao_Paulo
